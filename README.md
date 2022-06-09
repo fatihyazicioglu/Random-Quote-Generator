@@ -1,1 +1,2 @@
-# Random-Quote-Generator
+
+### a simple  Random-Quote-Generator
