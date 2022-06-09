@@ -1,0 +1,10 @@
+
+
+.container div{
+    border: 1px rgb(29, 14, 14) solid ;
+    height: 1rem;
+    width: 60rem;
+    border-radius: 4%;
+    margin-bottom: 1rem;
+    padding: 2rem;
+}
